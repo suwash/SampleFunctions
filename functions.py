@@ -1,4 +1,4 @@
-
+## The functions below are good functions for computation of simple mathematical operations.
 # Addition
 def addition(a, b):
  	summation = a + b
