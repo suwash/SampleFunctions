@@ -13,16 +13,6 @@ def subtraction(a, b):
 	return difference
 
 # Multiplication
-def division(a, b):
 
-	quotient = a / b
-
-	return quotient
 
 # Division
-
-def multiplication(a, b):
-
-	product = a * b
-
-	return product
